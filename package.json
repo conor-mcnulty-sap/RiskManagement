@@ -9,7 +9,7 @@
     "5": "^0.0.1",
     "@sap-cloud-sdk/http-client": "^3.12.0",
     "@sap-cloud-sdk/resilience": "^3.12.0",
-    "@sap/cds": "^7.7.0",
+    "@sap/cds": "^7.8.0",
     "@sap/cds-hana": "^2",
     "@sap/cds-mtxs": "^1.16.0",
     "@sap/xssec": "^3",
